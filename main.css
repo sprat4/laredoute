@@ -88,3 +88,7 @@ body {
     outline: none;
 }
 
+.image_size { 
+    max-width: 45px; 
+    min-width: 45px;
+}
